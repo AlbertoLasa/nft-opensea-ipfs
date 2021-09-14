@@ -1,0 +1,11 @@
+{
+  "description": "El hombre verde", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmTBkqtCo6kVNFxVGgBYc3iNdnnUJupCzytKMaksDcdYwm", 
+  "name": "Hulk",
+  "attributes": [
+    {
+      "trait_type": "Héroes", 
+      "value": "Clásicos"
+    }
+  ]
+}

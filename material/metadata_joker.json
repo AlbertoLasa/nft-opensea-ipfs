@@ -1,0 +1,11 @@
+{
+  "description": "El payaso loco", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmVo4wDKDCK55SKKwUnL57rYYYZ3pg69X2SMmSiSircqyq", 
+  "name": "Yoker",
+  "attributes": [
+    {
+      "trait_type": "Villanos", 
+      "value": "Locos"
+    }
+  ]
+}

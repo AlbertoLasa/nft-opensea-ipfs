@@ -1,0 +1,11 @@
+{
+  "description": "El hombre volador", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmTAJsL8PwQcuYfFLYRTmYRq4P3rE4aTwinWZHhFuRmLQM", 
+  "name": "Superman",
+  "attributes": [
+    {
+      "trait_type": "Héroes", 
+      "value": "Clásicos"
+    }
+  ]
+}

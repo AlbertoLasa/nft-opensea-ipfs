@@ -1,0 +1,11 @@
+{
+  "description": "Conan el barbaro", 
+  "image": "https://gateway.pinata.cloud/ipfs/QmVqdMgEYHdiYwpp2bEK1SVjydn39C3TiCZfrjZVq7XMAr", 
+  "name": "Conan",
+  "attributes": [
+    {
+      "trait_type": "Héroes", 
+      "value": "Independientes"
+    }
+  ]
+}
